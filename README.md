@@ -1,23 +1,16 @@
 # Pacifichem-2025
 
 Abstract Control ID: 4316111
-
 Presenting Author(s): Mr. Minho Lee
-
 Abstract Title: Effects of Divalent Cations on Non-Gaussian Lateral Diffusion of Water Molecules Confined Between Lipid Bilayers
-
 Assigned Poster Board: Board 433
 
 
 
 Assigned Session: Dynamics And Thermodynamics Of Small Biological And Nanomaterial Systems
-
 Session Date and Time: December 18, 2025 from 7:30 PM to 9:00 PM
-
 Session Location: Ground Level: Exhibit Hall (Hawaii Convention Center)
-
 Presentation Format: Poster
-
 Presentation Duration: 90 minutes
 
 <img width="4979" height="724" alt="image" src="https://github.com/user-attachments/assets/b2d9017e-ad2c-42f1-b80a-d83110f36d5a" />
