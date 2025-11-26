@@ -2,12 +2,12 @@
 
 Abstract Control ID: 4316111  
 Presenting Author(s): Mr. Minho Lee (minho.cdlc@gmail.com)  
-Abstract Title: Effects of Divalent Cations on Non-Gaussian Lateral Diffusion of Water Molecules Confined Between Lipid Bilayers  
+Abstract Title: **Effects of Divalent Cations on Non-Gaussian Lateral Diffusion of Water Molecules Confined Between Lipid Bilayers**  
 Assigned Poster Board: Board 433  
 
 Assigned Session: Dynamics And Thermodynamics Of Small Biological And Nanomaterial Systems  
 Session Date and Time: December 18, 2025 from 7:30 PM to 9:00 PM  
-Session Location: Ground Level: Exhibit Hall (Hawaii Convention Center)  
+Session Location: Ground Level: Exhibit Hall ([Hawaii Convention Center](https://maps.app.goo.gl/gENLL2DBVmaRCv8R6)  
 Presentation Format: Poster  
 Presentation Duration: 90 minutes  
 
