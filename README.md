@@ -28,8 +28,8 @@ Membrane-water interfaces host various chemical reactions that are vital for cel
 
 ## Supplementary materials
 
-1. Supporting Information:  
+1. [Supporting Information (**SI. 1**)](https://github.com/thereexist/Pacifichem-2025/blob/main/Supporting%20information.pdf):  
     1. Detailed description about Fig. 4 (a).  
     2. Experimental results reported in "H. Seto, Appl. Phys. Lett., 116, 133701 (2020)".  
 
-2. SI video: Heatmap of $G^{(d)}(n,t|m)$  
+2. [SI video (**SI. 2**)](https://github.com/thereexist/Pacifichem-2025/blob/main/SI%20video.gif): Heatmap of $G^{(d)}(n,t|m)$  
