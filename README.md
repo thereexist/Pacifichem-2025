@@ -1,4 +1,4 @@
-# Pacifichem-2025
+<img width="718" height="81" alt="image" src="https://github.com/user-attachments/assets/c69e2a6a-5508-4d16-8cde-e446989555a3" /># Pacifichem-2025
 
 Abstract Control ID: 4316111  
 Presenting Author(s): Mr. Minho Lee (minho.cdlc@gmail.com)  
@@ -29,7 +29,10 @@ Membrane-water interfaces host various chemical reactions that are vital for cel
 ## Supplementary materials
 
 1. [Supporting Information (**SI. 1**)](https://github.com/thereexist/Pacifichem-2025/blob/main/Supporting%20information.pdf):  
-    1. Detailed description about Fig. 4 (a).  
-    2. Experimental results reported in "H. Seto, Appl. Phys. Lett., 116, 133701 (2020)".  
+    1. Detailed description about Fig. 2 (d), Fig. 2 (e): Legendre Polynomial result.
+    2. Area per lipid  
+    3. Detailed description about Fig. 3 (a): heatmap result inspired by "[Z. Chen, Nat Commun 16, 1057 (2025)](https://www.nature.com/articles/s41467-025-56322-x)".
+    4. Reguib dependent lateral diffusion coefficient  
+    5. Experimental results reported in "[H. Seto, Appl. Phys. Lett., 116, 133701 (2020)](https://pubs.aip.org/aip/apl/article/116/13/133701/38234)".  
 
 2. [SI video (**SI. 2**)](https://github.com/thereexist/Pacifichem-2025/blob/main/SI%20video.gif): Heatmap of $G^{(d)}(n,t|m)$  
