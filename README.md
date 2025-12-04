@@ -1,4 +1,4 @@
-<img width="718" height="81" alt="image" src="https://github.com/user-attachments/assets/c69e2a6a-5508-4d16-8cde-e446989555a3" /># Pacifichem-2025
+# Pacifichem-2025
 
 Abstract Control ID: 4316111  
 Presenting Author(s): Mr. Minho Lee (minho.cdlc@gmail.com)  
