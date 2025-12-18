@@ -8,7 +8,7 @@
     3. Detailed description about Fig. 3 (a): heatmap result inspired by "[Z. Chen, Nat Commun 16, 1057 (2025)](https://www.nature.com/articles/s41467-025-56322-x)".
     4. Region dependent lateral diffusion coefficient  
     5. Experimental results reported in "[H. Seto, Appl. Phys. Lett., 116, 133701 (2020)](https://pubs.aip.org/aip/apl/article/116/13/133701/38234)".
-    6. Second-order reorientational TCF $𝐶_{2}(𝑡)≡⟨𝑃_{2}(cos⁡𝜑(𝑡))⟩$  
+    6. Second-order reorientational TCF ($𝐶_{2}(𝑡)≡⟨𝑃_{2}(cos⁡𝜑(𝑡))⟩$)  
 
 
 2. [SI video (**SI. 2**)](https://github.com/thereexist/Pacifichem-2025/blob/main/SI%20video.gif): Heatmap of $G^{(d)}(n,t|m)$  
