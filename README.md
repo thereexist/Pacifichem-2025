@@ -11,8 +11,7 @@
     6. Second-order reorientational TCF ($𝐶_{2}(𝑡)≡⟨𝑃_{2}(cos⁡𝜑(𝑡))⟩$)  
 
 
-2. [SI video (**SI. 2**)](https://github.com/thereexist/Pacifichem-2025/blob/main/SI%20video.gif): Heatmap of $G^{(d)}(n,t|m)$  
-
+2. [SI video (**SI. 2**)](https://github.com/thereexist/Pacifichem-2025/blob/main/SI%20video.gif): Heatmap of $G^{(d)}(n,t|m)$
 ===========================================================================================
 
 
